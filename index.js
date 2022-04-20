@@ -49,7 +49,7 @@ const questions = [
         type: 'list',
         message: 'What license do you want to use?',
         name: 'license',
-        choices: ['MIT License', 'APACHE 2.0', 'None'] 
+        choices: ['MIT License', 'Apache 2.0', 'GPL 3.0', 'None'] 
     }
 ];
 
@@ -65,7 +65,7 @@ function init() {
                 console.log(err)
             }
 
-            console.log("great success")
+            console.log("Great Success, ReadME has been generated")
         })
     });
 }
