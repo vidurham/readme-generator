@@ -12,13 +12,13 @@
 - [Questions](#questions)
 
 ### Description
-An application that creates a README.md file based on a user's input to questions
+An application that creates a README.md file for a user based on their input to questions
 
 ### Installation
-Clone the repository, npm i in the terminal, node index to run application
+Clone the repository, run npm install in the terminal, and run node index in the terminal to start the application
 
 ### Usage
-You can use this app to create README files quickly for any project
+You can use this app to quickly create README.md files for any project
 
 ### License
 [MIT license](https://opensource.org/licenses/MIT)
@@ -32,11 +32,10 @@ You can use this app to create README files quickly for any project
     THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ### Contributing
-N/A
+Feel free to use this to create some README.md files!!
 
 ### Tests
 npm install and node index
 
 ### Questions
 If you have any questions, feel free to contact me via email, vdurham@luciddronetech.com, or visit my Github page at [vidurham](https://github.com/vidurham).
-
