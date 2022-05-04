@@ -42,4 +42,4 @@ npm install and node index
 If you have any questions, feel free to contact me via email, vdurham@luciddronetech.com, or visit my Github page at [vidurham](https://github.com/vidurham).
 
 ### Demo
-![Demo](https://user-images.githubusercontent.com/98104995/166803615-1ddefcfa-1627-4820-b4b9-bcaa89fc7f42.mp4)
+![Demo](https://user-images.githubusercontent.com/98104995/166803615-1ddefcfa-1627-4820-b4b9-bcaa89fc7f42.mp4) Click the Link for a demonstration video
