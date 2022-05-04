@@ -1,8 +1,8 @@
 
-# rgsdgs
+# README Generator
 ![MIT license badge](https://img.shields.io/badge/License-MIT-red.svg)
 
-## Table of Contents for rgsdgs
+## Table of Contents for README Generator
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -12,13 +12,13 @@
 - [Questions](#questions)
 
 ### Description
-ghadf
+An application that creates a README.md file based on a user's input to questions
 
 ### Installation
-fs
+Clone the repository, npm i in the terminal, node index to run application
 
 ### Usage
-sgsd
+You can use this app to create README files quickly for any project
 
 ### License
 [MIT license](https://opensource.org/licenses/MIT)
@@ -32,10 +32,10 @@ sgsd
     THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ### Contributing
-g
+N/A
 
 ### Tests
-ssgdg
+npm install and node index
 
 ### Questions
-If you have any questions, feel free to contact me via email, gds, or visit my Github page at [gsdsd](https://github.com/gsdsd).
+If you have any questions, feel free to contact me via email, vdurham@luciddronetech.com, or visit my Github page at [vidurham](https://github.com/vidurham).
